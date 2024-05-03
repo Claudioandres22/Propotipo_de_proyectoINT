@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 
 agregueestetexto(carlos)
+=======
+Wena Carlos me meti a tu living y k pasa
+>>>>>>> e2306dd22d5cf875bcdaaeccc2be42b0ab655088
